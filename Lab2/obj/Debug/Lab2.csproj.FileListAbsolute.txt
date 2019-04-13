@@ -1,0 +1,6 @@
+C:\Users\662580\source\repos\CustomerData\Lab2\bin\Debug\Lab2.dll
+C:\Users\662580\source\repos\CustomerData\Lab2\bin\Debug\Lab2.pdb
+C:\Users\662580\source\repos\CustomerData\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\662580\source\repos\CustomerData\Lab2\obj\Debug\Lab2.dll
+C:\Users\662580\source\repos\CustomerData\Lab2\obj\Debug\Lab2.pdb
+C:\Users\662580\source\repos\CustomerData\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache

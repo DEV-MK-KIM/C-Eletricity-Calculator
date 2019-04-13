@@ -1,0 +1,10 @@
+1232,MK Kim,R,18.012
+2112,Jerry Tom,C,120.390
+2433,Stephen Joe,I,116.00
+4560,Christina James,C,60.00
+1274,Jones May,C,119.040
+2431,Enmax Lee,I,735.444
+2315,Greg Gatin,I,116.00
+1231,Minkyo Kim,R,6.624
+1232,MK,R,70.064
+1232,Jane Kim,C,119.985

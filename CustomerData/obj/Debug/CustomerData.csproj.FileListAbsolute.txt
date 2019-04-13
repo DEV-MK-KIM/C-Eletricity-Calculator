@@ -1,0 +1,12 @@
+C:\Users\662580\source\repos\CustomerData\CustomerData\bin\Debug\CustomerData.exe.config
+C:\Users\662580\source\repos\CustomerData\CustomerData\bin\Debug\CustomerData.exe
+C:\Users\662580\source\repos\CustomerData\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.csprojResolveAssemblyReference.cache
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.Form1.resources
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.Properties.Resources.resources
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.csproj.GenerateResource.Cache
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.exe
+C:\Users\662580\source\repos\CustomerData\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\662580\source\repos\CustomerData\CustomerData\bin\Debug\Lab2.dll
+C:\Users\662580\source\repos\CustomerData\CustomerData\bin\Debug\Lab2.pdb
